@@ -1,1 +1,4 @@
 node_modules
+data/post.txt
+data/tags.json
+processed-data/*
