@@ -10,7 +10,7 @@ _.forEach(tags, tag => {
 
   const searchString = new RegExp(text, "i");
 
-  const url = `<a href="https://nginy.net/tag/${slug}/">${text}</a>`
+  const url = `<a href="https://teknopolitan.xyz/tag/${slug}/">${text}</a>`
 
   const isMatched = post.search(searchString);
 
